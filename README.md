@@ -4,7 +4,8 @@
  For the analysis of earthquakes, data created by various institutions and organizations will be used. These data are stored in a file with the extension ".csv". Inside; Data are stored in the form of earthquake id, date, time, latitude, longitude, city, country, earthquake distance, earthquake depth, earthquake duration, local magnitude (Richter), moment magnitude, surface wave, plane wave magnitude, the largest magnitude except others.
 
 ## For Starters:
-   First you need to install Anaconda. [Anaconda](https://www.anaconda.com/products/individual)
+   First you need to install Anaconda. [Anaconda](https://www.anaconda.com/products/individual).
+   
    Start 'Jupyter Notebook' right after the installation. And run the program piece by piece.
 
 
