@@ -14,7 +14,15 @@
 * import seaborn as sns
 * import time
 * import datetime
+* from datetime import datetime
 * import collections
+* from collections import Counter
 * import os
 
 ## Changes:
+
+You must change the location of your files. Fill in the blank.
+
+Original -> "print(os.listdir(\"C://Users//burak\"))\n",
+
+_"print(os.listdir(\"C://    //     \"))\n",_
