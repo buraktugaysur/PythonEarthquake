@@ -5,6 +5,7 @@
 
 ## For Starters:
    First you need to install Anaconda. [Anaconda](https://www.anaconda.com/products/individual)
+   Start 'Jupyter Notebook' right after the installation. And run the program piece by piece.
 
 
 ## Import:
